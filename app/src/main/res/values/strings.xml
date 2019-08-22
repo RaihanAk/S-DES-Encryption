@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S-DES Encryption</string>
+    <string name="petunjuk1">1. Berdoalah sebelum memulai ujian</string>
+    <string name="petunjuk2">2. Kerjakan sendirian, jangan menyontek</string>
+    <string name="petunjuk3">3. Pilihlah jawaban yang benar</string>
+    <string name="petunjuk4a">
+        - pilih A jika A benar</string>
+    <string name="petunjuk4b">
+        - pilih B jika B benar</string>
+    <string name="petunjuk4c">
+        - pilih C jika C benar</string>
+    <string name="petunjuk5">4. Jika ada yang kurang jelas silahkan tanyakan pengawas</string>
+    <string name="petunjuk6">5. Semoga sukses</string>
+</resources>
