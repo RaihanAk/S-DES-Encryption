@@ -3,7 +3,8 @@ Android app to implementing S-DES encryption on submit and recieve with Google F
 
 ## Features:
 - S-DES Encrypt and Decryption 
-![Alt text](/pictures/Encrypt.JPG?raw=true "S-DES Encrypted")
+
+![Alt text](/pictures/Encrypt.JPG?raw=true=100x300 "S-DES Encrypted")
 - Google Firebase realtime database
 
 ## Projects Detail
